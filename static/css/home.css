@@ -1,0 +1,199 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.home-container1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 350px;
+  bottom: 0px;
+  height: 375px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.home-container2 {
+  top: 0px;
+  flex: 0 0 auto;
+  width: 350px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  box-shadow: 1px 1px 15px 1px #e8e8e8;
+  align-items: flex-start;
+  border-radius: 30px;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.home-container3 {
+  top: 70px;
+  left: 27px;
+  width: 292px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text {
+  color: #ffad00;
+  font-size: 14px;
+  font-style: normal;
+  font-family: Noto Sans KR;
+  font-weight: 500;
+  margin-left: 1px;
+}
+.home-text01 {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+}
+.home-container4 {
+  right: 27px;
+  width: 143px;
+  bottom: 23px;
+  height: 40px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: #ffad00;
+}
+.home-text02 {
+  color: #ffffff;
+  font-size: 15px;
+  align-self: center;
+  font-style: normal;
+  margin-top: 10px;
+  font-family: Noto Sans KR;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.home-container5 {
+  flex: 0 0 auto;
+  left: 27px;
+  width: 143px;
+  bottom: 23px;
+  height: 40px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: rgba(255, 173, 0, 0.11);
+}
+.home-text03 {
+  color: #ffad00;
+  font-size: 15px;
+  align-self: center;
+  font-style: normal;
+  margin-top: 10px;
+  font-family: Noto Sans KR;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.home-text04 {
+  top: 23px;
+  left: 27px;
+  position: absolute;
+  font-size: 25px;
+  font-family: Poppins;
+}
+.home-text05 {
+  top: 25.5px;
+  left: 89px;
+  color: #ffad00;
+  position: absolute;
+  font-size: 22px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 500;
+}
+.home-text06 {
+  font-style: normal;
+  font-weight: 500;
+}
+.home-icon {
+  top: 36px;
+  fill: var(--dl-color-gray-black);
+  left: 76.5px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.home-container6 {
+  top: 220px;
+  left: 0px;
+  right: 0px;
+  width: 350px;
+  height: 154px;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 15px 1px #e8e8e8;
+  align-items: flex-start;
+  border-radius: 30px;
+  flex-direction: column;
+}
+.home-container7 {
+  left: 0px;
+  right: 0px;
+  width: 296px;
+  bottom: 23px;
+  height: 40px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  flex-direction: column;
+  background-color: #ffad00;
+}
+.home-text07 {
+  color: #ffffff;
+  font-size: 15px;
+  align-self: center;
+  font-style: normal;
+  margin-top: 10px;
+  font-family: Noto Sans KR;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.home-text08 {
+  top: 20px;
+  left: 72px;
+  color: #ffad00;
+  position: absolute;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+}
+.home-text09 {
+  top: 46px;
+  left: 186px;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Noto Sans KR;
+  font-weight: 700;
+}
+.home-text11 {
+  top: 46px;
+  left: 29px;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Noto Sans KR;
+  font-weight: 700;
+}
